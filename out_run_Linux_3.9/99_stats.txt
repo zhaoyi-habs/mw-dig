@@ -1,0 +1,12 @@
+A_service	3599
+B_component	556
+C_mini	390
+D_ugc	1007
+E_trigger	1304
+F_dotted	36649
+H_func	45591
+I_snake	40910
+J_path	3122
+K_event	11557
+L_signal	2312
+M_cjk	10476923

@@ -1,0 +1,137 @@
+### assets/common_res.pkg unpack_pkg_intl.py rc=0
+pkg : /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/ex/assets__common_res.pkg
+输出: /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/unp/assets__common_res.pkg
+格式: ver=0x130BA  记录 36615 条  路径 33283 条
+  已写出 5000 ...
+  已写出 10000 ...
+  已写出 15000 ...
+  已写出 20000 ...
+  已写出 25000 ...
+  已写出 30000 ...
+
+===== 汇总 =====
+提取文件: 33283
+内容 md5: 通过 33283 / 失败 0 / 跳过 0
+解码分支: {'lz4': 11057, 'raw': 22226}
+按 Z 统计: {'Z=0/raw': 8164, 'Z=1/lz4': 23, 'Z=32/raw': 14062, 'Z=33/lz4': 11034}
+扩展名与内容一致性:
+  .png     13879/ 13879
+  .ogg      2719/  2719
+  .emo      1998/  1998
+  .json      144/   144
+  .vmo       108/   108
+  .zip        14/    14
+  .dls         1/     1
+耗时 4.9s，读取 612.0 MB
+报告: /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/unp/assets__common_res.pkg/_unpack_report.json
+
+### assets/first_res.pkg unpack_pkg_intl.py rc=0
+pkg : /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/ex/assets__first_res.pkg
+输出: /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/unp/assets__first_res.pkg
+格式: ver=0x130BA  记录 2455 条  路径 2362 条
+
+===== 汇总 =====
+提取文件: 2362
+内容 md5: 通过 2362 / 失败 0 / 跳过 0
+解码分支: {'raw': 2315, 'lz4': 47}
+按 Z 统计: {'Z=0/raw': 2314, 'Z=1/lz4': 42, 'Z=32/raw': 1, 'Z=33/lz4': 5}
+扩展名与内容一致性:
+  .json        1/     1
+  .png         1/     1
+耗时 0.2s，读取 11.2 MB
+报告: /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/unp/assets__first_res.pkg/_unpack_report.json
+
+### assets/game_language.pkg unpack_pkg_intl.py rc=0
+pkg : /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/ex/assets__game_language.pkg
+输出: /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/unp/assets__game_language.pkg
+格式: ver=0x130BA  记录 39 条  路径 39 条  页脚 c25924ea2d2b6d46b3876c4be93136f3
+
+===== 汇总 =====
+提取文件: 39
+内容 md5: 通过 39 / 失败 0 / 跳过 0
+解码分支: {'raw': 38, 'lz4': 1}
+按 Z 统计: {'Z=32/raw': 38, 'Z=33/lz4': 1}
+扩展名与内容一致性:
+  .png        38/    38
+耗时 0.0s，读取 1.0 MB
+报告: /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/unp/assets__game_language.pkg/_unpack_report.json
+
+### assets/game_res.pkg unpack_pkg_intl.py rc=0
+pkg : /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/ex/assets__game_res.pkg
+输出: /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/unp/assets__game_res.pkg
+格式: ver=0x130BA  记录 3521 条  路径 3517 条  页脚 4f5943efd7b4c2429895609f6e6accf1
+
+===== 汇总 =====
+提取文件: 3517
+内容 md5: 通过 3517 / 失败 0 / 跳过 0
+解码分支: {'raw': 3007, 'lz4': 510}
+按 Z 统计: {'Z=32/raw': 3007, 'Z=33/lz4': 510}
+扩展名与内容一致性:
+  .png      2997/  2997
+  .ogg       165/   165
+  .emo        44/    44
+  .json        2/     2
+  .zip         1/     1
+耗时 0.8s，读取 199.1 MB
+报告: /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/unp/assets__game_res.pkg/_unpack_report.json
+
+### assets/material_ogles2.pkg unpack_pkg_intl.py rc=0
+pkg : /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/ex/assets__material_ogles2.pkg
+输出: /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/unp/assets__material_ogles2.pkg
+格式: ver=0x130BA  记录 2926 条  路径 2926 条
+
+===== 汇总 =====
+提取文件: 2926
+内容 md5: 通过 2926 / 失败 0 / 跳过 0
+解码分支: {'raw': 2849, 'lz4': 77}
+按 Z 统计: {'Z=0/raw': 2849, 'Z=1/lz4': 77}
+耗时 0.3s，读取 10.9 MB
+报告: /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/unp/assets__material_ogles2.pkg/_unpack_report.json
+
+### assets/material_ogles3.pkg unpack_pkg_intl.py rc=0
+pkg : /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/ex/assets__material_ogles3.pkg
+输出: /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/unp/assets__material_ogles3.pkg
+格式: ver=0x130BA  记录 3711 条  路径 3711 条
+
+===== 汇总 =====
+提取文件: 3711
+内容 md5: 通过 3711 / 失败 0 / 跳过 0
+解码分支: {'raw': 3634, 'lz4': 77}
+按 Z 统计: {'Z=0/raw': 3634, 'Z=1/lz4': 77}
+耗时 0.7s，读取 15.6 MB
+报告: /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/unp/assets__material_ogles3.pkg/_unpack_report.json
+
+### assets/remote_res.pkg unpack_pkg_intl.py rc=0
+pkg : /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/ex/assets__remote_res.pkg
+输出: /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/unp/assets__remote_res.pkg
+格式: ver=0x130BA  记录 21528 条  路径 21528 条
+  已写出 5000 ...
+  已写出 10000 ...
+  已写出 15000 ...
+  已写出 20000 ...
+
+===== 汇总 =====
+提取文件: 21528
+内容 md5: 通过 0 / 失败 21528 / 跳过 0
+解码分支: {'raw': 21528}
+按 Z 统计: {'Z=34/raw': 2962, 'Z=35/raw': 18566}
+扩展名与内容一致性:
+  .png         0/  2943  失败 2943
+耗时 3.4s，读取 549.9 MB
+报告: /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/unp/assets__remote_res.pkg/_unpack_report.json
+
+### assets/script_res.pkg unpack_pkg_intl.py rc=0
+pkg : /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/ex/assets__script_res.pkg
+输出: /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/unp/assets__script_res.pkg
+格式: ver=0x130BA  记录 8172 条  路径 8172 条
+  已写出 5000 ...
+
+===== 汇总 =====
+提取文件: 8172
+内容 md5: 通过 8172 / 失败 0 / 跳过 0
+解码分支: {'lz4': 8159, 'raw': 13}
+按 Z 统计: {'Z=0/raw': 13, 'Z=1/lz4': 8159}
+扩展名与内容一致性:
+  .json      421/   421
+耗时 1.1s，读取 52.6 MB
+报告: /home/runner/work/MiniWorldPkgUnpacker/MiniWorldPkgUnpacker/unp/assets__script_res.pkg/_unpack_report.json
